@@ -147,8 +147,7 @@ None. Detection uses pretrained Haar cascades and the overlays are hand-assemble
 ## Acknowledgments
 
 B.Tech project at **Amrita School of Engineering, Bangalore** (Amrita Vishwa Vidyapeetham),
-December 2021, supervised by Dr. Suja P., by Vishnu Sainadh Kedarisetty, Satwik Kukkadapu and
-Ashrith Vadde.
+December 2021, supervised by Dr. Suja P., by Ashrith Vadde, Vishnu Sainadh Kedarisetty and Satwik Kukkadapu.
 
 ## Documentation
 
