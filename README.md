@@ -149,7 +149,17 @@ None. Detection uses pretrained Haar cascades and the overlays are hand-assemble
 B.Tech project at **Amrita School of Engineering, Bangalore** (Amrita Vishwa Vidyapeetham),
 December 2021, supervised by Dr. Suja P., by Ashrith Vadde, Vishnu Sainadh Kedarisetty and Satwik Kukkadapu.
 
+## Contributing
+
+Bug fixes, new filters, and cross-platform improvements are welcome. Open a focused pull request
+describing whether image mode, webcam mode, or both were tested. Include only assets you have
+permission to redistribute, and do not commit personal photos or generated outputs.
+
 ## Documentation
 
 - 📄 [Project Report](docs/REPORT.pdf)
 - 📊 [Presentation](docs/PPT.pptx)
+
+## License
+
+Licensed under the [MIT License](LICENSE).
